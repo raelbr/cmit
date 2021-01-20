@@ -1,0 +1,27 @@
+{
+  "name": "cmit",
+  "version": "0.0.1",
+  "description": "***WIP*** A Git Commit CLI Tool to reinforce conventional commits",
+  "main": "src/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/raelbr/cmit.git"
+  },
+  "keywords": [
+    "git",
+    "commit",
+    "tool",
+    "cli",
+    "conventional",
+    "standards"
+  ],
+  "author": "Rael Benassato Riolino",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/raelbr/cmit/issues"
+  },
+  "homepage": "https://github.com/raelbr/cmit#readme"
+}
