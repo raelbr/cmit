@@ -2,8 +2,10 @@
   "name": "cmit",
   "version": "0.0.3",
   "description": "***WIP*** A Git Commit CLI Tool to reinforce conventional commits",
-  "main": "src/index.js",
-  "bin": "./bin/index.js",
+  "main": "./bin/index.js",
+  "bin": {
+    "cmit": "bin/index.js"
+  },
   "repository": {
     "type": "git",
     "url": "git+https://github.com/raelbr/cmit.git"
@@ -25,6 +27,7 @@
   "dependencies": {
     "colors": "^1.4.0",
     "configstore": "^5.0.1",
+    "esm": "^3.2.25",
     "inquirer": "^7.3.3",
     "prompts": "^2.4.0",
     "signale": "^1.4.0",
