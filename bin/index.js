@@ -1,6 +1,5 @@
 #!/usr/bin/env node
-const { refresh } = require("../lib/utils/interface");
-const { displayMainOptions } = require("../lib/core/main");
+require = require("esm")(module);
+const { init } = require("../lib/core/main");
 
-refresh();
-displayMainOptions();
+init();
