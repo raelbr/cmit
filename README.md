@@ -20,5 +20,7 @@ Note that this project is still in development stage, and many core functionalit
 - Pull / Push action
 - Repeat last commit action
 - Other Branch options (create / change)
-- Display current branch
 - Display status summary
+- Suggest default commit values by fetching branch name ('type/scope/msg')
+- Cache and optimize git branch and status display
+- Support local config file
