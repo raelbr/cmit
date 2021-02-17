@@ -8,7 +8,7 @@ This project is not finished yet.
 
 ### What is CMIT?
 
-The main goal for this CMIT CLI is to encourage conventional commits for your project. It will provide an easy way to build the commit messages accourding to conventional commits, following a step by step proccess.
+The main goal for CMIT CLI is to encourage conventional commits for your project. It will provide an easy way to build the commit messages accourding to conventional commits, following a step by step proccess.
 
 For more information about conventional commits, please visit:
 www.conventionalcommits.org
