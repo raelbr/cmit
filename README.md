@@ -37,8 +37,8 @@ There are two ways to use CMIT:
 - Pull / Push action
 - Repeat last commit action
 - Other Branch options (create / change)
-- Display status summary
 - Suggest default commit values by fetching branch name ('type/scope/msg')
 - Cache and optimize git branch and status display
+- Auto Refresh Git Status Summary
 - Support local config file
 - Support Issue tracking integrations
