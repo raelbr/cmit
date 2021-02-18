@@ -41,3 +41,4 @@ There are two ways to use CMIT:
 - Suggest default commit values by fetching branch name ('type/scope/msg')
 - Cache and optimize git branch and status display
 - Support local config file
+- Support Issue tracking integrations
