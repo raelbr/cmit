@@ -18,7 +18,10 @@
     "conventional",
     "standards"
   ],
-  "author": "Rael Benassato Riolino",
+  "author": {
+    "name": "Rael Benassato Riolino",
+    "url": "https://github.com/raelbr"
+  },
   "license": "ISC",
   "bugs": {
     "url": "https://github.com/raelbr/cmit/issues"
