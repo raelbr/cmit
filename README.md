@@ -34,8 +34,7 @@ There are two ways to use CMIT:
 
 ### TODO:
 
-- Pull / Push action
-- Repeat last commit action
+- Git log action
 - Other Branch options (create / change)
 - Suggest default commit values by fetching branch name ('type/scope/msg')
 - Cache and optimize git branch and status display
