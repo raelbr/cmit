@@ -1,6 +1,6 @@
 {
   "name": "cmit",
-  "version": "0.2.1",
+  "version": "0.2.2",
   "description": "***WIP*** A Git Commit CLI Tool to reinforce conventional commits",
   "main": "./bin/index.js",
   "bin": {
