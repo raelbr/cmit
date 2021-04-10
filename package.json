@@ -33,6 +33,7 @@
     "colors": "^1.4.0",
     "configstore": "^5.0.1",
     "esm": "^3.2.25",
+    "execa": "^5.0.0",
     "inquirer": "^7.3.3",
     "prompts": "^2.4.0",
     "signale": "^1.4.0",
