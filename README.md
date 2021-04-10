@@ -34,10 +34,12 @@ There are two ways to use CMIT:
 
 ### TODO:
 
-- Git log action
 - Other Branch options (create / change)
 - Suggest default commit values by fetching branch name ('type/scope/msg')
 - Cache and optimize git branch and status display
 - Auto Refresh Git Status Summary
 - Support local config file
 - Support Issue tracking integrations
+- Support to track issues (github, jira, trello)
+- Improve Git Log Action (search option)
+- Improve Git Add Actions (all / select files)
